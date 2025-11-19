@@ -1,4 +1,4 @@
-aLauffähige WLED binary inkl. Bootloader für den Arduino Nano-ESP32. 
+Lauffähige WLED binary inkl. Bootloader für den Arduino Nano-ESP32. 
 Matrix kann an GPIO 5 (D2) angeschlossen werden.
 Die interne RGB-LED kann zum Testen angesteuert werden.
  
